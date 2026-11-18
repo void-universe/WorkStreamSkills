@@ -4,23 +4,23 @@
   "skills": [
     {
       "slug": "ad-director",
-      "name": "广告导演手册 · 本机 H3 短片",
+      "name": "广告导演手册 · H3 短片",
       "summary": "四人工种（导演/场景/剧情/分镜）的广告分镜规矩：3 秒一条、一个运镜、风格锁复用、品牌层级、交付纪律。",
       "category": "制作",
       "version": "2.0.0",
       "updated_at": "2026-11-18T02:30:00.000Z",
       "size": 4900,
-      "body_url": "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.2.0/skills/ad-director.md"
+      "body_url": "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.3.0/skills/ad-director.md"
     },
     {
       "slug": "h3-render",
-      "name": "本机渲染执行规范",
+      "name": "渲染执行规范",
       "summary": "广告分镜.json 的交接协议：渲染器怎么扫群文件、回执怎么读、分镜字段与提示词骨架、失败只重跑那一条。",
       "category": "制作",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "updated_at": "2026-11-18T02:30:00.000Z",
       "size": 2600,
-      "body_url": "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.2.0/skills/h3-render.md"
+      "body_url": "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.3.0/skills/h3-render.md"
     }
   ]
 }

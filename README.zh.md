@@ -10,7 +10,7 @@
 | `registry.json` | WorkStream 市场的技能源格式（`schema: 1`）：slug、名称、摘要、`body_url`。 |
 | `bundle.json` | 可一键部署的包：群名、技能正文、以及带系统提示词的员工定义。 |
 | `skills/ad-director.md` | 导演手册：3 秒一镜、一镜一个运镜、风格锁逐字复用、品牌层级、交付纪律。 |
-| `skills/h3-render.md` | 本机渲染器怎么读 `广告分镜.json`、怎么回 `渲染回执.md`。 |
+| `skills/h3-render.md` | 渲染器怎么读 `广告分镜.json`、怎么回 `渲染回执.md`。 |
 
 ## 按版本固定
 

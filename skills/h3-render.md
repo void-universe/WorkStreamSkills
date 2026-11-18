@@ -1,9 +1,9 @@
-# 本地渲染交接规范
+# 渲染交接规范
 
-给「把分镜交给本地渲染器」用的通用约定。渲染器跑在**谁的机器上、用什么模型**由部署方决定；这份规范只约定
+给「把分镜交给渲染器」用的通用约定。渲染器跑在哪台机器、用什么模型由部署方决定；这份规范只约定
 **怎么交活、怎么验收**，不绑定任何具体实现。
 
-**执行器**：[WorkStreamRenderer](https://github.com/void-universe/WorkStreamRenderer)（本机渲染脚本，无凭据）。
+**执行器**：[WorkStreamRenderer](https://github.com/void-universe/WorkStreamRenderer)（渲染脚本仓库，无凭据）。
 
 ## 交接协议
 
