@@ -8,8 +8,8 @@
     "announcement": "用渲染器出片：分镜写好后上传 广告分镜.json，渲染器回 渲染回执.md。"
   },
   "skills": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.3.0/skills/ad-director.md",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.3.0/skills/h3-render.md"
+    "https://www.void-universe.com/workstream/skills/skills/ad-director.md",
+    "https://www.void-universe.com/workstream/skills/skills/h3-render.md"
   ],
   "agents": [
     {
