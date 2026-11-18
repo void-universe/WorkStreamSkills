@@ -1,15 +1,15 @@
 {
   "schema": "workstream.bundle/1",
   "name": "广告创作组",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "四个员工：导演、场景规划、剧情编导、分镜。一键建群，全部走站点配置的模型端点。",
   "group": {
     "name": "广告创作组",
     "announcement": "用本机渲染器出片：分镜写好后上传 广告分镜.json，渲染器回 渲染回执.md。"
   },
   "skills": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.1.0/skills/ad-director.md",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.1.0/skills/h3-render.md"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.2.0/skills/ad-director.md",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.2.0/skills/h3-render.md"
   ],
   "agents": [
     {

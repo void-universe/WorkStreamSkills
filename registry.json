@@ -10,17 +10,17 @@
       "version": "2.0.0",
       "updated_at": "2026-11-18T02:30:00.000Z",
       "size": 4900,
-      "body_url": "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.1.0/skills/ad-director.md"
+      "body_url": "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.2.0/skills/ad-director.md"
     },
     {
       "slug": "h3-render",
       "name": "本机渲染执行规范",
       "summary": "广告分镜.json 的交接协议：渲染器怎么扫群文件、回执怎么读、分镜字段与提示词骨架、失败只重跑那一条。",
       "category": "制作",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "updated_at": "2026-11-18T02:30:00.000Z",
       "size": 2600,
-      "body_url": "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.1.0/skills/h3-render.md"
+      "body_url": "https://gh-proxy.com/https://raw.githubusercontent.com/void-universe/WorkStreamSkills/v1.2.0/skills/h3-render.md"
     }
   ]
 }
